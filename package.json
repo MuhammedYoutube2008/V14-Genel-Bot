@@ -1,0 +1,21 @@
+{
+  "name": "fr3zy-altyapi",
+  "version": "1.0.0",
+  "description": "Fr3zy Youtube Genel Altyapı",
+  "main": "bot.js",
+  "scripts": {
+    "start": "nodemon bot.js"
+  },
+  "author": "Fr3zy",
+  "license": "ISC",
+  "dependencies": {
+    "@iamtraction/google-translate": "^2.0.1",
+    "chalk": "^3.0.0",
+    "croxydb": "^0.0.7",
+    "delay": "^5.0.0",
+    "discord.js": "^14.11.0",
+    "humanize-duration": "^3.29.0",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2"
+  }
+}
